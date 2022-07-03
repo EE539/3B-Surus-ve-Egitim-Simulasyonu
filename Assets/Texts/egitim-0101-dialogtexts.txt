@@ -1,0 +1,11 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun ilk eğitimine hoşgeldiniz...
+Aracı çalıştırmak için "X"/"Buton 7" tuşuna basınız.
+Otomatik araçların Sürüş(A), Geri Vites(R), Park(P) ve Boş Vites(N) olmak üzere dört vitesi bulunmaktadır. Aracın hangi viteste olduğunu ekrandaki sol üstteki panelden görebilirsiniz. 
+Araç park halinde durduğunda park(P) vitesinde bulunmalıdır.
+Boş Vites(N) araç bekler pozisyonundayken kullanılmaktadır. Vitesi değiştirmek için "E"/"Buton 2" tuşuna basınız.
+İlerlemek için aracın el frenini indirip, aracı Sürüş(A) vitesine getirmemiz gerekmektedir. "Q"/"Buton 8" tuşuna basarak el frenini indirip, "E"/"Buton 2" tuşuna basarak vites değiştirebilirsiniz.
+Aracı ilerletmek için gaz pedalına yani "W"/"Gaz Pedalı" tuşuna basınız.
+Frenlemek için "Space-Boşluk"/"Fren Pedalı" tuşuna basınız.
+Aracı geri ilerlemesi için aracı geri vitese(R) getirilmesi gerekmektedir. Vitesi değiştirmek için "E"/"Buton 2" tuşuna basınız.
+Araç durdurulduktan sonra Park vitesine getirmemiz ve el frenini çekmemiz gerekmektedir. "E"/"Buton 2" tuşuna basarak vites değiştirip, "Q"/"Buton 8" tuşuna basarak el frenini çekebilirsiniz.
+Aracı durdurmak için "X"/"Buton 7" tuşuna basınız.

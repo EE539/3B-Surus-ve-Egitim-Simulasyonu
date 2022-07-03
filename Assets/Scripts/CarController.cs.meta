@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ee39c67ba3ad1504f8edc74f10319017
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - elFreniUyari: {instanceID: 0}
+  - FrontLWCollider: {instanceID: 0}
+  - FrontRWCollider: {instanceID: 0}
+  - RearLWCollider: {instanceID: 0}
+  - RearRWCollider: {instanceID: 0}
+  - FrontLWTransform: {instanceID: 0}
+  - FrontRWTransform: {instanceID: 0}
+  - RearLWTransform: {instanceID: 0}
+  - RearRWTransform: {instanceID: 0}
+  - inputActions: {fileID: -944628639613478452, guid: 6fd629eb2af029945929c8950addcb74,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

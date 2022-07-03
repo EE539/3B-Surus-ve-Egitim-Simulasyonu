@@ -1,0 +1,9 @@
+Welcome to the fifth training of 3D Driving and Training Simulation...
+In this tutorial, you will receive cornering training.
+Brake and use the appropriate gear before turning the bend.
+Entering the bend from a wide-angle is one of the most correct techniques. 
+Pay attention to the tire weather and the condition of the tires. 
+Continue without pressing the gas and brake until the middle of the bend. 
+After the middle of the bend, complete the bend by pressing the gas.  
+Pay attention to the condition of the road. Wet roads are dangerous. 
+Don't try to go fast, try to go safe.

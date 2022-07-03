@@ -1,0 +1,51 @@
+3 BOYUTLU SÜRÜŞ VE EĞİTİM SİMÜLASYONU
+YENİ MİSİN?
+KAYDOL
+GİRİŞ
+Kullanıcı Adı :
+kullanıcı adı
+Şifre : 
+şifre
+Şifre Tekrar :
+şifre
+KAYDOL
+İPTAL
+AYARLAR
+Kullanıcı Adı :
+kullanıcı adı
+Şifre : 
+şifre
+GİRİŞ
+İPTAL
+AYARLAR
+Ses
+ÇIKIŞ
+Ses
+ŞİFRE DEĞİŞTİR
+KULLANICI ADI DEĞİŞTİR
+ÇIKIŞ
+Mevcut Kullanıcı Adı :
+kullanıcı adı
+Yeni Kullanıcı Adı :
+kullanıcı adı
+Mevcut Şifre :
+şifre
+Yeni Şifre :
+şifre
+Yeni Şifre Tekrar :
+şifre
+DEĞİŞTİR
+YARI OTOMATİK VİTES
+OTOMATİK VİTES
+AYARLAR
+SINAV
+EĞİTİM
+SERBEST SÜRÜŞ
+AYARLAR
+SÜRÜŞ-KALKIŞ-DURUŞ EĞİTİMİ
+PARK ETME EĞİTİMİ
+GEÇİŞ ÖNCELİĞİ EĞİTİMİ
+KAVŞAK EĞİTİMİ
+VİRAJ AMA EĞİTİMİ
+TAM EĞİTİM
+AYARLAR

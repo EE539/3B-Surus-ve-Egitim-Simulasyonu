@@ -1,0 +1,3 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun ikinci eğitiminin Arka-L Park eğitimine hoşgeldiniz...
+Yeşil ile belirtilen park alanına yaklaşınız.
+Arabanın aynalarını kullanarak, arabanın ilk arka kısmı girecek şekilde park alanına giriniz.

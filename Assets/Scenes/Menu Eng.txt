@@ -1,0 +1,7 @@
+SETTINGS
+Fullscreen
+Weather
+Volume
+MAIN MENU
+CLOSE
+EXIT

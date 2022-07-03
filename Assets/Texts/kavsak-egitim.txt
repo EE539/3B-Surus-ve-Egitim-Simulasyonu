@@ -1,0 +1,19 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun dördüncü eğitimine hoşgeldiniz...
+Bu eğitimde kavşak alma ve göbekten dönme eğitimini alacaksınız.
+Göbekte hareket saat yönünün tersinde olur. Göbekte harekete başlamak için sağa dönün ve sağ şeritten ilerleyin.
+Normalde burada öncelik bekleyen arabaya verilir, ama burada araba olmadığı için yola devam edilebilir. Eğer buradan dönecek olsaydık sinyal vermemiz gerekirdi.
+Yola dümdüz devam ediniz.
+Döneceğimiz yere geldik, burada da normalde öncelik bekleyen arabaya verilir ama araba olmadığı için buradan dönülebilir.
+Sağa dönün ve şeridinize girin.
+Eğitimin ikinci yarısı olan kavşak eğitiminde kavşağa geldiğimizde kavşaktan geçen yaya varsa geçiş hakkı her zaman onlara verilir.
+Kavşakta sağa döneceğimiz zaman dar açı ile, sola döneceğimiz zaman geniş açı ile dönüş yapılır.
+Bu eğitimde sağa dönüş yapılacaktır.
+Şimdi sağa sinyal vererek sağa dönün.
+Normalde yaya geçerken dönüşü tamamlamadan önce yayaya yol verilir. Yayaya yol verildikten sonra dönüş tamamlanır.
+Dönüşü tamamlayın.
+Bu eğitimde sola dönüş yapılacaktır. 
+Şimdi sola sinyal vererek sola dönün.
+Normalde eğer karşıdan gelen bir araç varsa ve duramayacak kadar hızlı geliyorsa yol o araca verilir.
+Dönüşe devam edin.
+Normalde yaya geçerken dönüşü tamamlamadan önce yayaya yol verilir. Yayaya yol verildikten sonra dönüş tamamlanır.
+Dönüşü tamamlayın.

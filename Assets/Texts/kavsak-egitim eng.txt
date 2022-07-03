@@ -1,0 +1,19 @@
+Welcome to the fourth training of 3D Driving and Training Simulation...
+In this training, you will receive the training of taking a crossroads and turning from the navel.
+Movement in the navel occurs counterclockwise. To start the movement on the hub, turn right and go through the right lane.
+Normally, priority is given to the waiting car here, but since there is no car here, the road can be continued. If we were going to get back from here, we should have signaled.
+Continue straight on down the road.
+We have arrived at the place where we will be returning, and here, normally, priority is given to the waiting car, but since there is no car, it can be returned from here.
+Turn right and enter your lane.
+In the intersection training, which is the second half of the training, if pedestrians are passing the intersection when we arrive at the intersection, the right of way is always given to them.
+At the intersection, a turn is made at a narrow a narrow-angle turn right, and a turn is made at a wide and wide-angle turn left.
+In this tutorial, there will be a right turn.
+Now turn right, signaling to the right.
+Normally, the pedestrian is given a path before completing the turn when crossing the pedestrian. After giving way to the pedestrian, the turn is completed.
+Complete the turn.
+In this tutorial, there will be a left turn. 
+Now turn left, signaling to the left.
+Normally, if there is an oncoming vehicle and it is coming too fast to stop, the road is given to that vehicle.
+Continue the turn.
+Normally, the pedestrian is given a path before completing the turn when crossing the pedestrian. After giving way to the pedestrian, the turn is completed.
+Complete the turn.

@@ -1,0 +1,51 @@
+3D DRIVING AND TRAINING SIMULATION
+ARE YOU NEW?
+SIGN UP
+ENTER
+Username :
+username
+Password :
+password
+Password Again :
+password
+SIGN UP
+CANCEL
+settings
+Username :
+username
+Password :
+password
+ENTER
+CANCEL
+SETTINGS
+Volume
+EXIT
+Volume
+CHANGE PASSWORD
+CHANGE USERNAME
+EXIT
+Current Username :
+username
+New Username :
+username
+Current Password :
+password
+New Password :
+password
+New Password Again :
+password
+CHANGE
+SEMI-AUTOMATIC GEAR SHIFT
+AUTOMATIC TRANSMISSION
+SETTINGS
+EXAM
+TRAINING
+FREE RIDE
+SETTINGS
+DRIVING-TAKE-OFF-POSTURE TRAINING
+PARKING TRAINING
+TRANSITION PRIORITY TRAINING
+INTERSECTION TRAINING
+BEND BUT NOT BEND
+FULL TRAINING
+SETTINGS

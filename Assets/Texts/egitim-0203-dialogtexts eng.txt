@@ -1,0 +1,5 @@
+Welcome to the Parallel Parking training of the second training of 3D Driving and Training Simulation...
+It is of great importance to look in the mirrors when parallel parking is carried out.
+The car is currently specially positioned in the parallel park. Put it in reverse gear to start parking.
+Turn the steering wheel completely to the right and slowly move forward until you see the first pontoon on the curb from the left mirror.
+Place the car in the parking lot, turning the steering wheel to the left this time.

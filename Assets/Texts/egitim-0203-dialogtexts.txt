@@ -1,0 +1,5 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun ikinci eğitiminin Paralel Park eğitimine hoşgeldiniz...
+Paralel park yapılırken aynalara bakmak büyük önem taşımaktadır.
+Araba şu anda paralel parka özel konumlandırılmıştır. Park etmeye başlamak için geri vitese alınız.
+Direksiyonu tamamen sağa çevirip, sol aynadan kaldırım kenarındaki ilk dubayı görene kadar yavaşça ilerleyiniz.
+Direksiyonu bu sefer sola çevirerek, arabayı park yerine yerleştiriniz.

@@ -1,0 +1,11 @@
+Welcome to the first training of 3D Driving and Training Simulation...
+Press the "X"/"Button 7" key to start the car.
+Automatic vehicles have four gears: Drive (A), Reverse (R), Park (P), and Neutral (N). You can see which gear the car is in from the upper left panel on the screen.
+When the vehicle is parked, it must be in the park (P) gear.
+Neutral (N) is used when the vehicle is in the waiting position. To change the gear, press the "E"/"Button 2" key.
+To proceed, we need to lower the car's handbrake and put the car in Drive (A) gear. You can lower the handbrake by pressing the "Q"/"Button 8" key and change gears by pressing the "E"/"Button 2" key.
+To move the car forward, press the accelerator pedal, that is, the "W"/"Accelerator Pedal" key.
+To brake, press the "Space"/"Brake Pedal" key.
+The vehicle must be put into reverse gear(R) for the vehicle to move back. To change the gear, press the "E"/"Button 2" key.
+After the car is stopped, we need to bring it to the Parking gear and pull the handbrake. You can change gears by pressing the "E"/"Button 2" key and pull the handbrake by pressing the "Q"/"Button 8" key.
+To stop the vehicle, press the "X"/"Button 7" key.

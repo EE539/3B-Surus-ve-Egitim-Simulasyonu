@@ -1,0 +1,3 @@
+Welcome to the Back-L Parking training of the second training of 3D Driving and Training Simulation...
+Approach the parking area indicated by green.
+Using the mirrors of the car, enter the parking space so that the first rear part of the car enters.

@@ -1,0 +1,17 @@
+Welcome to the third training of 3D Driving and Training Simulation...
+In this training, transition priority training will be given.
+A vehicle coming from the main road has the right of way when it comes to an intersection with a secondary road marking. In this case, the right of passage is yours.
+Congratulations, you're doing well. If you want to continue, press N and we'll go to another area.
+First, put the gear back into driving mode.
+A vehicle coming from the main road has the right of way when it comes to an intersection with a secondary road marking. In this case, the right of passage belongs to the other vehicle.
+Now it's your turn.
+We are doing well so far. To continue, press N, and let's teleport to another area.
+First, put the gear back into driving mode.
+at intersections with 4 branches of the main road, the vehicle coming from the main road has the right of way when it comes to a road marked as a secondary road. So the priority is yours
+Now proceed to the other part.
+First, put the gear back into driving mode.
+At intersections where roads of the same value meet, vehicles coming from the left must give the right of way to vehicles coming from the right.
+In this case, the first sedan passes.
+Secondly, Mercedes passes.
+Now it is up to you.
+Congrats!!! it's all right at this stage.

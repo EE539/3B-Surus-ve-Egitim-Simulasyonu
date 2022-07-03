@@ -1,0 +1,3 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun ikinci eğitiminin Ön-L Park eğitimine hoşgeldiniz...
+Yeşil ile belirtilen park alanına yaklaşınız.
+Arabanın ilk ön kısmı girecek şekilde park alanına giriniz.

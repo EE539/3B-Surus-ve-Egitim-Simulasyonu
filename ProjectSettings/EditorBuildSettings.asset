@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Aray\xFCz.unity"
+    guid: 0e112351030a2d748939ff46ad15c316
+  - enabled: 1
+    path: Assets/Scenes/loading.unity
+    guid: 3058f777b6d7bb6479d64899f977e4d5
+  - enabled: 1
+    path: Assets/Scenes/egitimler.unity
+    guid: 7a6c0897057a58c448a0717cc3a2e4e6
+  - enabled: 1
+    path: Assets/Scenes/SerbestSurus.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/sinav.unity
+    guid: 7cacc8a8438fa4a4986803827f45a21c
+  m_configObjects: {}

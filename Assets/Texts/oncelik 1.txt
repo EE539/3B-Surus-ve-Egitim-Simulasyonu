@@ -1,0 +1,17 @@
+3 Boyutlu Sürüş ve Eğitim Simülasyonunun üçüncü eğitimine hoş geldiniz...
+Bu eğitimde geçiş önceliği ile ilgili eğitim verilecektir.
+Ana yol, tali yol işaretlemesi yapılmış bir kavşağa gelindiğinde ana yoldan gelen araç geçiş hakkına sahiptir. Bu durumda geçiş hakkı sizindir.
+Tebrikler, iyi gidiyorsunuz. Devam etmek istiyorsanız N'ye bas ve diğer bir bölgeye gecelim.
+İlk olarak vitesi tekrar sürüş moduna alın.
+Ana yol tali yol işaretlemesi yapılmış bir kavşağa gelindiğinde ana yoldan gelen araç geçiş hakkına sahiptir. Bu durumda geçiş hakkı diğer araca aittir.
+Şimdi sıra sizde.
+Şu ana kadar iyi gidiyoruz. Devam etmek için N'ye basın ve başka bir bölgeye ışınlanalım.
+İlk olarak vitesi tekrar sürüş moduna alın.
+4 kollu kavşaklarda ana yol tali   yol işaretlenmesi yapılmış bir yola gelindiğinde ana yoldan gelen araç geçiş hakkına sahiptir. Yani öncelik sizin
+Şimdi diğer kısma geçmek için devam edin.
+İlk olarak vitesi tekrar sürüş moduna alın.
+Aynı değerdeki yolların birleştiği kavşaklarda soldan gelen araçlar sağdan gelen araçlara geçiş hakkini vermek zorundadır.
+Bu durumda ilk sedan geçer.
+İkinci olarak Mercedes geçer.
+Şimdi sıra sizdedir.
+Tebrikler!!! bu aşamada tamamdır.
