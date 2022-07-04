@@ -6,7 +6,7 @@ Bu projede benimle beraber 4 takım arkadaşı daha çalışmaktadır. Benim bu 
 - Arayüzün geliştirilmesi
 - Simülasyon Ortamı
 - Ayarlar Ekranı
-- Gerekli ses dosyalarının eklenmesi
+- Gerekli ses dosyalarının eklenmesi ve seslendirme
 - Hız ve devir saati
 - Otomatik vites
 - Trafik lambaları
