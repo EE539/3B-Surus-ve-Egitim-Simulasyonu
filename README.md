@@ -8,6 +8,7 @@ Bu projede benimle beraber 4 takım arkadaşı daha çalışmaktadır. Benim bu 
 - Ayarlar Ekranı
 - Gerekli ses dosyalarının eklenmesi
 - Hız ve devir saati
+- Otomatik vites
 - Trafik lambaları
 - Arabanın temel kodları
 - Yeni input sistemi ile snoppy konsolunu sisteme bağlama ve klavye inputlarını düzenleme
@@ -29,6 +30,7 @@ In this project, 4 more teammates are working with me. What I did in this projec
 - Settings Screen
 - Adding required audio files and voice over
 - Speedometer and tachometer
+- Automatic transmission
 - Traffic lights
 - Basic codes of the car
 - Connecting the snoppy console to the system and editing the keyboard inputs with the new input system
