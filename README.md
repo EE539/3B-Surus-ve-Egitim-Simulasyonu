@@ -16,7 +16,28 @@ Eğitim senaryolarından kavşak eğitimi
 Popupların eklenmesi
 Yüklenme sayfası
 Araç tasarımı
-İngilizce dil ekleme (neredeyse tamamlandı)
+Simülasyona İngilizce dil ekleme (neredeyse tamamlandı)
 Bug düzeltimi
+
+-ENG-
+A simulation environment where people can get driving training and test themselves works in harmony with the Snoppy steering console. There are currently 3 trainings active, the remaining trainings are under construction. There is Turkish voice over behind this.
+
+In this project, 4 more teammates are working with me. What I did in this project
+
+Development of the interface
+Simulation Environment
+Settings Screen
+Adding required audio files and voice over
+Speedometer and tachometer
+Traffic lights
+Basic codes of the car
+Connecting the snoppy console to the system and editing the keyboard inputs with the new input system
+Assisting in developing the database
+Junction training from training scenarios
+Adding popups
+Loading page
+Vehicle design
+Adding English language to the simulation (almost complete)
+Bug fix
 
 
